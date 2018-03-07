@@ -1,0 +1,12 @@
+{
+  "name": "cesaroctavioxd/lightbox2",
+  "description": "lightbox2",
+  "minimum-stability": "dev",
+  "license": "MIT",
+  "authors": [
+    {
+      "name": "Cesar Octavio",
+      "homepage": "https://eurekas.club"
+    }
+  ]
+}
